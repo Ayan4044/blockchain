@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">blockchain</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="markets">Markets</string>
+    <string name="trade">Trade</string>
+    <string name="wallet">Wallet</string>
+    <string name="search">Search</string>
+    <string name="market_cap">Name/Market Cap</string>
+    <string name="last_price">Last Price/24h Change %</string>
+    <string name="convert">Convert</string>
+</resources>
